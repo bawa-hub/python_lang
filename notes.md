@@ -1,7 +1,7 @@
 # cerate virtual environment
 
-python -m venv <project-name>
+python -m venv <venv_name>
 
 # activate venv
 
-source /path/to/project/bin/activate
+source /path/to/venv/bin/activate
