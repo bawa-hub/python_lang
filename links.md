@@ -18,5 +18,6 @@ https://github.com/ml-tooling/best-of-python
 
 https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512
 https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/
+https://thecleverprogrammer.com/2022/03/12/data-science-roadmap/
 https://data-flair.training/blogs/python-project-ideas/
 https://code-projects.org/c/languages/project/pythonprojects/
