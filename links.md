@@ -2,6 +2,7 @@
 
 https://www.programiz.com/python-programming/function
 http://inventwithpython.com/
+https://pynative.com/python/
 
 # useful links --
 
