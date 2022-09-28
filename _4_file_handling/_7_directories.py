@@ -2,7 +2,7 @@ import os
 
 # Get Current Directory
 print(os.getcwd())
-print(os.getcwdb) # get it as bytes object.
+print(os.getcwdb()) # get it as bytes object.
 
 # Changing Directory
 os.chdir('/home/bawa/Learn/python_world')
@@ -25,7 +25,6 @@ print(os.listdir())
 os.remove('test.txt') # remove file
 os.rmdir('new_one') # remove dir
 # Note: The rmdir() method can only remove empty directories.
-
 
 # remove non-empty dir
 import shutil
