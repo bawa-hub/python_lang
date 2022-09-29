@@ -1,7 +1,3 @@
-# cerate virtual environment
+# file handling problems
 
-python -m venv <venv_name>
-
-# activate venv
-
-source /path/to/venv/bin/activate
+https://www.geeksforgeeks.org/tag/python-file-handling-programs/
