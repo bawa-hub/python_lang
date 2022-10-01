@@ -1,4 +1,4 @@
-f = open("test.txt", encoding = 'utf-8')
+f = open("test.txt", encoding='utf-8')
 # perform file operations
 f.close()
 
@@ -6,12 +6,12 @@ f.close()
 
 # A safer way is to use a try...finally block.
 try:
-   f = open("test.txt", encoding = 'utf-8')
-   # perform file operations
+    f = open("test.txt", encoding='utf-8')
+    # perform file operations
 finally:
-   f.close()
+    f.close()
 
 
-# The best way to close a file is by using the with statement. 
-with open("test.txt", encoding = 'utf-8') as f:
-   # perform file operations
+# The best way to close a file is by using the with statement.
+with open("test.txt", encoding='utf-8') as f:
+    # perform file operations
