@@ -26,7 +26,7 @@ python manage.py runserver
 
 # make and run migration
 
-python manage.py makemigrations polls
+python manage.py makemigrations
 python manage.py migrate
 
 # run django shell
