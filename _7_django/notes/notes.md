@@ -18,7 +18,7 @@ django-admin startproject <projectname>
 # make apps
 
 cd project
-python manage.py startapp <appname>
+python manage.py startapp <appname>c
 
 # start server
 
