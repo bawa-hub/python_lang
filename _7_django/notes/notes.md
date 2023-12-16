@@ -6,6 +6,9 @@ python3 -m venv myvenv
 
 source /path/to/myvenv/bin/activate
 
+# deactivate venv
+deactivate
+
 # install dependencies
 
 pip3 install -r requirements.txt
