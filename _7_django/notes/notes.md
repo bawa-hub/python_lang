@@ -39,3 +39,9 @@ python manage.py shell
 # django admin panel
 
 python manage.py createsuperuser
+
+# install or make requirements.txt file
+
+-- activate venv
+-- pip install -r requirements.txt for installing
+-- pip freeze > requirements.txt for making 
