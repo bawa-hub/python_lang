@@ -1,5 +1,6 @@
 # Tutorials --
 
+https://www.pythontutorial.net/
 https://www.programiz.com/python-programming
 https://www.w3schools.com/python/
 https://pynative.com/python/

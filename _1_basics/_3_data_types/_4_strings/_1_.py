@@ -65,3 +65,22 @@ print(f'{name} is from {country}')  # Cathy is from UK
 example = "He said, \"What's there?\""  # escape double quotes
 example = 'He said, "What\'s there?"'  # escape single quotes
 print(example)  # He said, "What's there?"
+
+
+# slicing (indexing[] or slice())
+# [start:stop:step]
+name = "Bawa Vikram"
+fname = name[0:4]
+# fname = name[:4] # by default start with 0
+lname = name[5:11]
+# lname = name[5:] # means upto last index
+print(fname)
+# Bawa
+print(lname)
+# Vikram
+funny_name = name[0:11:2]
+print(funny_name)
+# Bw irm
+reversed_name = name[::-1]
+print(reversed_name)
+# markiV awaB

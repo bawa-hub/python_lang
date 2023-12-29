@@ -16,8 +16,6 @@ print("The sum is", sum)
 
 
 # While loop with else
-
-
 counter = 0
 while counter < 3:
     print("Inside loop")

@@ -1,25 +1,21 @@
 📘 List of Topics 📘
-- Variables
-- Conditions
-- Chained Conditionals
+
+- Variables, namespace and scope
 - Operators
-- Control Flow (If/Else)
-- Loops and Iterables
-- Basic Data Structures
+- Control Flow
+- Data Structures
 - Functions
 - Mutable vs Immutable
 - Common Methods
 - File IO
 
 - Object Oriented Programming
-- Data Structures
-- Comprehensions 
 - Lambda Functions
 - Map, Filter
 - Collections
 - *args & **kwargs
-- Inheritance
 - Dunder Methods
+
 - PIP
 - Environments
 - Modules
