@@ -1,17 +1,12 @@
 # syntax
 # lambda argument(s) : expression
 
-def greet(): return print('Hello World')
+add1 = lambda x: x + 1;
+# equivalent to 
+# def add1(x):
+#     return x + 1
+print(add1(5)) # 6
 
+mult = lambda x,y: x*y
+print(mult(2,5)) # 10
 
-greet()
-# Output: Hello World
-
-
-# lambda that accepts one argument
-def greet_user(name): return print('Hey there,', name)
-
-
-# lambda call
-greet_user('Delilah')
-# Output: Hey there, Delilah

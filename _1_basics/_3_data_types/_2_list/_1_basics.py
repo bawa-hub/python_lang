@@ -1,5 +1,6 @@
 # Create List
 my_list = []  # empty list
+my_list = list() # empty list
 my_list = [1, "Hello", 3.4]  # list with mixed data types
 my_list = ["mouse", [8, 4, 6], ['a']]  # nested list
 

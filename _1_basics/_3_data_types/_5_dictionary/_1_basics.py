@@ -1,3 +1,5 @@
+# key-value pairs, unordered, mutable
+
 # Create dictionary
 #  values can be of any data type and can repeat,
 # keys must be of immutable type (string, number or tuple with immutable elements) and must be unique.
